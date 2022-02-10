@@ -80,7 +80,6 @@ test("gets player's attack value", () => {
 
 test('adds a potion to the inventory', () => {
     const player = new Player('Dave');
-    console.log(player.inventory);
 
     const oldCount = player.inventory.length;
 
