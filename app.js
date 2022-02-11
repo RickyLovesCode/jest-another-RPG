@@ -1,2 +1,4 @@
-const car = new Car('Honda', 'Civic');
-console.log(car);
+const Game = require('./lib/Game');
+
+new Game().initializeGame();
+
