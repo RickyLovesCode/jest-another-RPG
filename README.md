@@ -16,7 +16,8 @@ A CLI RPG game that's fun and easy to install.
 -----
 
 ## **preview** 
-![GamePreview]()
+![GamePreview](![Screenshot 2022-03-11 001601](https://user-images.githubusercontent.com/69219899/157829043-d6ad5407-541a-4ce3-84db-a5b9b3f0457d.jpg)
+)
 
 ## ___How to use___
 
@@ -29,7 +30,8 @@ A CLI RPG game that's fun and easy to install.
 > `node app.js `
 
 4. You then should see the following in your terminal:
-![terminal img]().
+![terminal img](![Screenshot 2022-03-11 000052](https://user-images.githubusercontent.com/69219899/157828332-12fe2d31-5531-423c-9623-c91449b067e1.jpg)
+).
 
 5. The most important step is to have fun! and enjoy.
 
