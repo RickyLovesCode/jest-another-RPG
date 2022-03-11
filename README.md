@@ -12,6 +12,7 @@ A CLI RPG game that's fun and easy to install.
 - Express.js
 - Node.js
 - Jest
+- Npm/inquirer
 
 -----
 
@@ -21,15 +22,16 @@ A CLI RPG game that's fun and easy to install.
 
 ## ___How to use___
 
-1. Navigate to "" and Clone SSH key to your local or HTTP. 
+1. Navigate to "https://github.com/RickyLovesCode/jest-another-RPG" and Clone SSH key to your local or HTTP. 
 
 2. Make sure to have Node.js installed, and run this command in your terminal
 > `npm install ` 
 
-3.  Once you have all the packages and dependecies installed run -
+3.  Once you have all the packages and dependecies installed run 
 > `node app.js `
 
 4. You then should see the following in your terminal:
+
 ![Screenshot 2022-03-11 002049](https://user-images.githubusercontent.com/69219899/157829827-be9f7489-3162-40f2-821d-4e807ff4474c.jpg)
 
 
